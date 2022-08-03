@@ -1,0 +1,35 @@
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\IServicios.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\IServicios.pdb
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\obj\Debug\IServicios.csproj.CoreCompileInputs.cache
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\obj\Debug\IServicios.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\IServicios\obj\Debug\IServicios.pdb
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\IServicios.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\IServicios.pdb
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\obj\Debug\IServicios.csprojAssemblyReference.cache
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\obj\Debug\IServicios.csproj.CoreCompileInputs.cache
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\obj\Debug\IServicios.dll
+C:\Users\Eskuro\Desktop\FinalDeLab2\IServicios\obj\Debug\IServicios.pdb
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\IServicios.dll.config
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\IServicios.dll
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\IServicios.pdb
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\EntityFramework.dll
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\EntityFramework.xml
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\obj\Debug\IServicios.csproj.AssemblyReference.cache
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\obj\Debug\IServicios.csproj.CoreCompileInputs.cache
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\obj\Debug\IServicios.csproj.CopyComplete
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\obj\Debug\IServicios.dll
+C:\Users\SANDRA\OneDrive\Escritorio\Final_Lab_2-master\IServicios\obj\Debug\IServicios.pdb

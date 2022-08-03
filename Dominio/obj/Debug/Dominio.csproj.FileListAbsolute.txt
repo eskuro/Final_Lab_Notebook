@@ -1,0 +1,2 @@
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\Dominios\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Eskuro\Desktop\FinalDeLab2 2.0\Dominios\obj\Debug\Dominio.csprojAssemblyReference.cache
